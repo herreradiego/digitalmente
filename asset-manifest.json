@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/digitalmente/static/css/main.d6f4b39b.chunk.css",
+    "main.css": "/digitalmente/static/css/main.b756f207.chunk.css",
     "main.js": "/digitalmente/static/js/main.a8207f1d.chunk.js",
     "main.js.map": "/digitalmente/static/js/main.a8207f1d.chunk.js.map",
     "runtime~main.js": "/digitalmente/static/js/runtime~main.fac9b579.js",
@@ -8,9 +8,9 @@
     "static/js/2.c10ba7c1.chunk.js": "/digitalmente/static/js/2.c10ba7c1.chunk.js",
     "static/js/2.c10ba7c1.chunk.js.map": "/digitalmente/static/js/2.c10ba7c1.chunk.js.map",
     "index.html": "/digitalmente/index.html",
-    "precache-manifest.5921ee33e211b4c52a843d93a79a2593.js": "/digitalmente/precache-manifest.5921ee33e211b4c52a843d93a79a2593.js",
+    "precache-manifest.e121137ffb5007999690a905fa325008.js": "/digitalmente/precache-manifest.e121137ffb5007999690a905fa325008.js",
     "service-worker.js": "/digitalmente/service-worker.js",
-    "static/css/main.d6f4b39b.chunk.css.map": "/digitalmente/static/css/main.d6f4b39b.chunk.css.map",
+    "static/css/main.b756f207.chunk.css.map": "/digitalmente/static/css/main.b756f207.chunk.css.map",
     "static/media/app_img_01.png": "/digitalmente/static/media/app_img_01.363ccab4.png",
     "static/media/app_img_02.png": "/digitalmente/static/media/app_img_02.ef82325d.png",
     "static/media/app_img_03.png": "/digitalmente/static/media/app_img_03.c059c1ee.png",
