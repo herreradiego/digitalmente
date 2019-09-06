@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/digitalmente/precache-manifest.bc647292a33cded9378a9d9d36b7ba81.js"
+  "/digitalmente/precache-manifest.40477c692fbbb17f292b6ef9508331f1.js"
 );
 
 self.addEventListener('message', (event) => {
