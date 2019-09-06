@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "336380e548da6dab59464de1ef6b3cf5",
+    "revision": "f48aeca719a535e01a549ef485186806",
     "url": "/digitalmente/index.html"
   },
   {
-    "revision": "1fe8b6f2721652243179",
-    "url": "/digitalmente/static/css/main.2ab5bd25.chunk.css"
+    "revision": "7af7e60b506d4811c3e3",
+    "url": "/digitalmente/static/css/main.ff0bd168.chunk.css"
   },
   {
-    "revision": "43c18e0472cc8362a403",
-    "url": "/digitalmente/static/js/2.6056f77a.chunk.js"
+    "revision": "290f1114d7ef00fe54e4",
+    "url": "/digitalmente/static/js/2.34cd3d99.chunk.js"
   },
   {
-    "revision": "1fe8b6f2721652243179",
-    "url": "/digitalmente/static/js/main.7d1e67f9.chunk.js"
+    "revision": "7af7e60b506d4811c3e3",
+    "url": "/digitalmente/static/js/main.fe6df09c.chunk.js"
   },
   {
     "revision": "cacf0fa0dea3190aa7ca",
@@ -36,6 +36,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digitalmente/static/media/app_img_04.93d62912.png"
   },
   {
+    "revision": "c4a6a838be00855adc92dd16a2f00a07",
+    "url": "/digitalmente/static/media/artImg_1.c4a6a838.jpg"
+  },
+  {
+    "revision": "6542549332ad832123487ed57ed744e8",
+    "url": "/digitalmente/static/media/artImg_2.65425493.jpg"
+  },
+  {
+    "revision": "2d766309099351d3f29aa48b959b8921",
+    "url": "/digitalmente/static/media/artImg_3.2d766309.jpg"
+  },
+  {
+    "revision": "59026027a4c7f70cb97573e436bb31dc",
+    "url": "/digitalmente/static/media/artImg_4.59026027.jpg"
+  },
+  {
+    "revision": "e2aa433247e6055cb68f28d85e7863cc",
+    "url": "/digitalmente/static/media/diego_pic.e2aa4332.jpg"
+  },
+  {
     "revision": "e0c06dbb5d852dc19e70bad8c9cc02c4",
     "url": "/digitalmente/static/media/headerImg.e0c06dbb.png"
   },
@@ -46,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c5b2641813428d1052e9b51e5c07a457",
     "url": "/digitalmente/static/media/map.c5b26418.png"
+  },
+  {
+    "revision": "e9cc8aadde48a33230055fcc84f2e921",
+    "url": "/digitalmente/static/media/neuroConect_img_01.e9cc8aad.png"
   },
   {
     "revision": "243f2c025f8fd615b5ed2452c533520f",
@@ -62,5 +86,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8833214d6d036820a81c9fdd67cac777",
     "url": "/digitalmente/static/media/selector_04.8833214d.png"
+  },
+  {
+    "revision": "4367cc5224e633cd3c2f73b3fc4a97c0",
+    "url": "/digitalmente/static/media/termo.4367cc52.jpg"
   }
 ]);
